@@ -8,3 +8,5 @@ Create First Web Page with Kodluyoruz
     Hayattaki yaşama amacım dünyayı sadece iyi olabilmek ve iyiliği herkese bulaştırabilmek.. 
     Dünyayı değiştirebileceğimize inanıyorum.
   </p>
+  
+  [patika.dev](https://app.patika.dev/bzceval)
